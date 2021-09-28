@@ -5,22 +5,34 @@
     "place": "corridor",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-1",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Потолок, с него капает вода"
+        "text": "Потолок, с него капает вода",
+        "num": 0
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-2",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Стену, по ней ползет трещина"
+        "text": "Стену, по ней ползет трещина",
+        "num": 1
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-3",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Пол, доски в нем проваливаются"
+        "text": "Пол, доски в нем проваливаются",
+        "num": 2
       }
     ]
   },
@@ -30,22 +42,34 @@
     "place": "corridor",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-4",
-        "price": "2000000",
+        "price": 2000000,
+        "score": 0,
         "icon": "roof",
-        "text": "Заменим кровлю (2 млн сомов)"
+        "text": "Заменим кровлю (2 млн сомов)",
+        "num": 0
       },
       {
+        "fg1": "luja_est",
+        "fg2": "null",
         "link": "q-4",
-        "price": "30000",
+        "price": 30000,
+        "score": 2,
         "icon": "brush",
-        "text": "Закрасим сами (30 000 сомов)"
+        "text": "Закрасим сами (30 000 сомов)",
+        "num": 1
       },
       {
+        "fg1": "luja_est",
+        "fg2": "vedro",
         "link": "q-4",
-        "price": "0",
+        "price": 0,
+        "score": 1,
         "icon": "bucket",
-        "text": "Подставим ведро"
+        "text": "Подставим ведро",
+        "num": 2
       }
     ]
   },
@@ -55,22 +79,34 @@
     "place": "class",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-5",
-        "price": "58000000",
+        "price": 58000000,
+        "score": 0,
         "icon": "school",
-        "text": "Построим новую школу (58 млн сомов)"
+        "text": "Построим новую школу (58 млн сомов)",
+        "num": 0
       },
       {
-        "link": "q-5",
-        "price": "5000",
-        "icon": "brush",
-        "text": "Закрасим краской (5000 сомов)"
-      },
-      {
-        "link": "q-5",
-        "price": "0",
+        "fg1": "plakat_vnizu",
+        "fg2": "plakat_vverhu",
+        "link": "q-1",
+        "price": 0,
+        "score": 1,
         "icon": "poster",
-        "text": "Заклеим плакатом"
+        "text": "Заклеим плакатом",
+        "num": 1
+      },
+      {
+        "fg1": "treshina",
+        "fg2": "null",
+        "link": "q-3",
+        "price": 5000,
+        "score": 2,
+        "icon": "brush",
+        "text": "Закрасим краской (5000 сомов)",
+        "num": 2
       }
     ]
   },
@@ -80,22 +116,34 @@
     "place": "doors",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-6",
-        "price": "5000000",
+        "price": 5000000,
+        "score": 0,
         "icon": "boards",
-        "text": "Заменим полы (5 млн сомов)"
+        "text": "Заменим полы (5 млн сомов)",
+        "num": 0
       },
       {
+        "fg1": "null",
+        "fg2": "dsp",
         "link": "q-6",
-        "price": "35000",
+        "price": 35000,
+        "score": 2,
         "icon": "dsp",
-        "text": "Постелим дсп (35 000 сомов)"
+        "text": "Постелим дсп (35 000 сомов)",
+        "num": 1
       },
       {
+        "fg1": "null",
+        "fg2": "doski",
         "link": "q-6",
-        "price": "5000",
+        "price": 5000,
+        "score": 1,
         "icon": "nail",
-        "text": "Заделаем дыру (5000 сомов)"
+        "text": "Заделаем дыру (5000 сомов)",
+        "num": 2
       }
     ]
   },
@@ -105,22 +153,34 @@
     "place": "corridor",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-2",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Стену, по ней ползет трещина"
+        "text": "Стену, по ней ползет трещина",
+        "num": 0
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-3",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Пол, доски в нем проваливаются"
+        "text": "Пол, доски в нем проваливаются",
+        "num": 1
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Больше не хочу ничего чинить"
+        "text": "Больше не хочу ничего чинить",
+        "num": 2
       }
     ]
   },
@@ -130,22 +190,34 @@
     "place": "class",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "cabinet",
         "link": "q-7",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Займем денег в акимиате"
+        "text": "Займем денег в акимиате",
+        "num": 0
       },
       {
+        "fg1": "plakat_vnizu",
+        "fg2": "plakat_vverhu",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 1,
         "icon": "poster",
-        "text": "Заклеим плакатом"
+        "text": "Заклеим плакатом",
+        "num": 1
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Больше не хочу ничего чинить"
+        "text": "Больше не хочу ничего чинить",
+        "num": 2
       }
     ]
   },
@@ -155,35 +227,51 @@
     "place": "doors",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "q-2",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Стену, по ней ползет трещина"
+        "text": "Стену, по ней ползет трещина",
+        "num": 0
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Больше не хочу ничего чинить"
+        "text": "Больше не хочу ничего чинить",
+        "num": 1
       }
     ]
   },
   {
     "id": "q-7",
     "question": "К сожалению, в акимиате нет денег...<br>Что будем делать с трещиной?",
-    "place": "class",
+    "place": "cabinet",
     "answers": [
       {
+        "fg1": "null",
+        "fg2": "class",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 1,
         "icon": "null",
-        "text": "Заклеим плакатом"
+        "text": "Заклеим плакатом",
+        "num": 0
       },
       {
+        "fg1": "null",
+        "fg2": "null",
         "link": "exit",
-        "price": "0",
+        "price": 0,
+        "score": 0,
         "icon": "null",
-        "text": "Больше не хочу ничего чинить"
+        "text": "Больше не хочу ничего чинить",
+        "num": 1
       }
     ]
   }
